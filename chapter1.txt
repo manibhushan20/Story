@@ -1,2 +1,4 @@
  
-Hello prompt, this is git and github. Learning new things, thats all.
+Hello prompt, this is git and github.
+ Learning new things, thats all.
+It's a alien-plot branch.
