@@ -1,0 +1,2 @@
+ 
+Hello prompt, this is git and github. Learning new things, thats all.
